@@ -15,7 +15,7 @@
 
 ## 🎮 Como Jogar
 
-- Use **WASD** ou as **setas** para se mover.
+- Use **W A S D** ou as **setas** para se mover.
 - Pressione **ESPAÇO** para atirar.
 - Derrote todos os inimigos para vencer.
 - Se colidir com um inimigo, volta para posição inicial e ao perder as 3 vidas o jogo termina.
@@ -52,14 +52,17 @@ pip install pgzero
 ```
 
 - Execute o jogo com:
+```bash
 pgzrun gamefox.py 
+```
 
 ✏️ Créditos e Observações
 - Jogo feito para fins didáticos.
 - Código estruturado com orientação a objetos (classes AnimatedSprite, Player, Enemy, Bullet, Acorn, Button).
 - Para usar o sprites do player principal deve comentar a linha 601 e comntar a 604 e 605
 - Para ter os assets completos acessas: https://ansimuz.itch.io/sunny-land-pixel-game-art
-- Lembrando que algumas partes feita do jogo foi realizado modificações de sprites. 
+- Foram realizadas modificações dos sprites em algumas partes do jogo
+- Musica Principal do BoxCat Games: https://freemusicarchive.org/music/BoxCat_Games
 
 🚀 Melhorias Futuras (sugestões)
 - Continuar sistema de animação do inimigo ao receber dano da fireball.
