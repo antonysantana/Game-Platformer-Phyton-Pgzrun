@@ -66,6 +66,6 @@ pgzrun gamefox.py
 
 🚀 Melhorias Futuras (sugestões)
 - Continuar sistema de animação do inimigo ao receber dano da fireball.
-- Adicionar animações ao player.
+- Adicionar mais animações ao player, como hit, morte...
 - Incluir fases com níveis de dificuldade, realizando a transição de nivel através da porta que já está nos arquivos do projeto.
 - Menu de pausa e opções como aumentar ou diminuir o volume da musica principal. 
