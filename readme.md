@@ -5,12 +5,12 @@
 
 - O projeto foi desenvolvido com foco didático, buscando aplicar conceitos de:
 
-- - Lógica de programação em Python;
-- - Orientação a objetos
-- - Animações quadro a quadro (sprites com múltiplos frames);
-- - Detecção de colisão;
-- - Estados de jogo (MENU, PLAYING, GAME_OVER);
-- - Interface básica com botões e instruções na tela.
+  - Lógica de programação em Python;
+  - Orientação a objetos
+  - Animações quadro a quadro (sprites com múltiplos frames);
+  - Detecção de colisão;
+  - Estados de jogo (MENU, PLAYING, GAME_OVER);
+  - Interface básica com botões e instruções na tela.
 ---
 
 ## 🎮 Como Jogar
@@ -31,16 +31,16 @@
 - O jogo possui 3 estados: MENU, PLAYING, GAME_OVER. Sendo no game over que ocorre a verificação tanto de vitoria como derrota.
 
 ## 📁 Estrutura do Projeto
--- Algumas imagens devem estar na pasta images/ com nomes específicos, assim como sounds e music.
-/meu_projeto/
-│
-├── gamefox.py # Código principal do jogo
-├── README.md # (Este arquivo)
-└── images/ # Pasta com todos os sprites
-├──────── fireball-1.png
-├──────── fireball-1-flip.png
-├──────── win_background.png
-└──────── ...
+ - Algumas imagens devem estar na pasta images/ com nomes específicos, assim como sounds e music.
+- /meu_projeto/
+- │
+- ├── gamefox.py # Código principal do jogo
+- ├── README.md # (Este arquivo)
+- └── images/ # Pasta com todos os sprites
+- ├──────── fireball-1.png
+- ├──────── fireball-1-flip.png
+- ├──────── win_background.png
+- └──────── ...
 
 ## ▶️ Como Executar
 
